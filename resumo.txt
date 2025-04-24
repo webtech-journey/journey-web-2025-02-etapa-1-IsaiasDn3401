@@ -1,1 +1,3 @@
-Insira seu resumo aqui!
+Oque eu entendi sobre a aula de terça-feira foi como surgiu a internet como funciona os links, a interface de um site e por tras dele tambem " os Fronts Ends e Back Ends" e falou
+ sobre algumas linguagens de progamação como HTML e o CSS. Falaram como funciona o endereços de IP, DNS, e Dominios e algumas elementos de um site e mostrou para a turma nossa
+ principais fontes para fazer esse curso que são o Canvas e o GitHub.
